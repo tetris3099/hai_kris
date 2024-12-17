@@ -1,0 +1,27 @@
+body {
+  background-image: repeating-linear-gradient(
+    to left,
+    rgb(182, 1, 1),
+    rgb(2, 2, 143)
+  );
+}
+
+.conteiner {
+  padding-top: 150px;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  color: rgba(0, 255, 255, 0.87);
+}
+
+.like {
+  color: rgb(218, 3, 164);
+}
+
+p {
+  font-size: 21px;
+  text-align: center;
+  color:rgb(233, 141, 4) ;
+}
